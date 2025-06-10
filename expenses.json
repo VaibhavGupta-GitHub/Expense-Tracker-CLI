@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "egg biryani",
+        "date": "2025-04-20   10:37:24"
+    },
+    {
+        "amount": 20.0,
+        "category": "beverages",
+        "note": "fanta",
+        "date": "2025-04-20   10:38:08"
+    },
+    {
+        "amount": 2040.0,
+        "category": "Stock",
+        "note": "Cold drinks",
+        "date": "2025-04-20   19:35:59"
+    },
+    {
+        "amount": 10.0,
+        "category": "food",
+        "note": "lotte choco pie",
+        "date": "2025-04-20   19:37:22"
+    },
+    {
+        "amount": 20.0,
+        "category": "food",
+        "note": "",
+        "date": "2025-04-21   19:19:53"
+    }
+]
